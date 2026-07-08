@@ -49,7 +49,7 @@ const Hero = ({ onGetStarted }) => {
     return (
         <section className="hero">
             <div className="hero-content">
-                <h2 className="title">Navigate Cloud Contexts. <span className="danger-text">Protect Production.</span></h2>
+                <h2 className="title">Navigate Cloud Contexts. <span className="danger-text">Protect Production by Samuel.</span></h2>
                 <p className="subtitle">
                     Guardrail is a context-aware Go CLI that instantly synchronizes your Kubernetes and AWS/GCP profiles, while natively wrapping your terminal to freeze execution if destructive commands target crucial infrastructure.
                 </p>
